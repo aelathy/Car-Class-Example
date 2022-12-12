@@ -1,0 +1,15 @@
+F:\CS30\Car-Class-Example\bin\Debug\net6.0\Car-Class-Example.exe
+F:\CS30\Car-Class-Example\bin\Debug\net6.0\Car-Class-Example.deps.json
+F:\CS30\Car-Class-Example\bin\Debug\net6.0\Car-Class-Example.runtimeconfig.json
+F:\CS30\Car-Class-Example\bin\Debug\net6.0\Car-Class-Example.dll
+F:\CS30\Car-Class-Example\bin\Debug\net6.0\Car-Class-Example.pdb
+F:\CS30\Car-Class-Example\obj\Debug\net6.0\Car-Class-Example.csproj.AssemblyReference.cache
+F:\CS30\Car-Class-Example\obj\Debug\net6.0\Car-Class-Example.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\Car-Class-Example\obj\Debug\net6.0\Car-Class-Example.AssemblyInfoInputs.cache
+F:\CS30\Car-Class-Example\obj\Debug\net6.0\Car-Class-Example.AssemblyInfo.cs
+F:\CS30\Car-Class-Example\obj\Debug\net6.0\Car-Class-Example.csproj.CoreCompileInputs.cache
+F:\CS30\Car-Class-Example\obj\Debug\net6.0\Car-Class-Example.dll
+F:\CS30\Car-Class-Example\obj\Debug\net6.0\refint\Car-Class-Example.dll
+F:\CS30\Car-Class-Example\obj\Debug\net6.0\Car-Class-Example.pdb
+F:\CS30\Car-Class-Example\obj\Debug\net6.0\Car-Class-Example.genruntimeconfig.cache
+F:\CS30\Car-Class-Example\obj\Debug\net6.0\ref\Car-Class-Example.dll
